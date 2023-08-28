@@ -1,0 +1,26 @@
+.Block{
+    width: 700px;
+    padding: 10px;
+    box-shadow: 1px 1px 10px 1px rgb(236, 233, 233);
+    background-color: white;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+.Block p{
+    font-size: 18px;
+    font-weight: 900;
+    line-height: 28px;
+    letter-spacing: 1px;
+}
+.premium__block{
+    background-image: url("../assets/bg-color.jpg");
+    width: 100%;
+    height: 500px;
+    background-size: cover;
+}
+.download__block{
+    background-image: url("../assets/mountain.png");
+    width: 100%;
+    height: 500px;
+    background-size: cover;
+}
